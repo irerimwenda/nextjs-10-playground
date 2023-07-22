@@ -38,7 +38,7 @@ export default function Home() {
         </div>
 
         <div className="hidden" id="movies" role="tabpanel" aria-labelledby="movies-tab">
-            <Movies/>
+          <Movies/>
         </div>
 
         <div className="hidden" id="animes" role="tabpanel" aria-labelledby="animes-tab">

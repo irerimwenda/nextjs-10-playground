@@ -1,4 +1,5 @@
 import Sidebar from "./partials/Sidebar";
+import Favorites from "./partials/Favorites";
 
 const Layout = ({children}) => {
     return (
@@ -13,7 +14,7 @@ const Layout = ({children}) => {
             </main>
 
             <div className="w-1/5 h-screen border-l border-gray-300">
-                {/*Sections*/}
+                <Favorites/>
             </div>
         </div>
     )
