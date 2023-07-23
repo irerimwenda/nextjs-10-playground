@@ -35,5 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Resources
 Design - [Dribble](https://dribbble.com/shots/15781513-Movie-Dashboard-Design/attachments/7589611?mode=media)
+
 Styling - Tailwind CSS
-API - [TMDB](https://www.themoviedb.org/documentation/api)
+
+Movies API - [TMDB](https://www.themoviedb.org/documentation/api)
